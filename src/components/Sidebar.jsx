@@ -57,3 +57,4 @@ export default function Sidebar({initialMenuItems}) {
       ></input>
     </div>
   )
+}
